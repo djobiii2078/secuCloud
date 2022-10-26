@@ -1,28 +1,25 @@
-# OS + Virtualisation : Politique de sécurité 
+# Cloud
 
-- Introduction aux OS + Virtualisation lié au Cloud - 4h
-- Impact sur les applications - 2h
-- La sécurité (importance + enjeux financiers + politique) - 2h
-- Failles de sécurité (bit memory error, vm jailbreak, scheduling issues ---spawn+fork bomb()) - 8h
-- TEE (trusted execution environment --- SGX+AMD SEV) - 2h
-- CC 2h
+## Responsable de module
 
-**TPs**
+- Djob Mvondo (barbe-thystere.mvondodjob@univ-rennes1.fr)
+- Etougue Jean Yves (etouguejeanyves@gmail.com)
 
-- Bit Memory error - 4h
-- VM jailbreak - 4h
-- Scheduling (meltdown + spectre + SGX)  - 4h
+## La procédure d'évaluation
 
-## Description du cours 
+Ce module sera évalué sur la base des rapports et du code issu des TP, un controle continu, projet durant le semestre.
 
-## Règles du cours 
+Ces rapports doivent fidèlement rendre compte de votre travail.
+Vous y écrirez ce que vous comprenez des exercices, les différents problèmes que vous rencontrez et comment vous réussissez à les résoudre, ainsi que les réponses au questions théoriques présentes dans les sujets de TP. Les TPs peuvent être réaliser en binôme ou seul (un TP fait en binôme implique que les rendus sont commun).
 
-18h CM + 2h CC + 12h TP/TDs
+Le contrôle final portera sur des notions vues en cours, ainsi que sur celles vues en TP à travers les questions théoriques.
 
-Projet (interface pour des attaques multiples) --- Démo de chaque personne pour le projet --- Groupe de 3 personnes. 
+## Organisation du cours
 
-## 
+Les dates de soumissions des rapports sont strictes. Un rapport soumis en retard est équivalent à une note de 0.
+Les dates de soumissions indiqués corresondent au dernier jour ou vous pourrez déposer vos fichiers (ex : le td3 peut être soumis le 01/12/2022 mais à partir de 00:00 dans la nuit du 01/12/2022 au 02/12/2022 cela ne sera plus possible)
 
-barbe-thystere.mvondodjob@univ-rennes1.fr
-etouguejeanyves@gmail.com
+On utilisera Github Classroom pour tracer les heures de soumission et votre évolution pour les TDs/TPs.
 
+| Dates  | Type | Titre | Evaluation | Date limite de soumission
+| :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
