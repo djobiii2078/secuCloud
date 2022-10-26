@@ -23,3 +23,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 
 | Dates  | Type | Titre | Evaluation | Date limite de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
+| 26/10/2022 | Rapport + Code | ISA + différences entre (x86, ARM, et RISC-V) | | 30/10/2022 |
